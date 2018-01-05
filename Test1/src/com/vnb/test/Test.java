@@ -12,6 +12,9 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
       System.out.println("这是第一次的分支master");
+   //   -------------------------------------------------------
+      System.out.println("修改文件并用另一个分支：修改旧版本错误");
+      System.out.println("修改中过程中。。。");
 	}
 
 }
